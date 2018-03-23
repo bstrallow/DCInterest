@@ -27,8 +27,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    justify-content: space-around;
-    align-content: space-around;
+    justify-content: space-between;
+    align-content: space-between;
 }
 .card {
     width: 200px;
